@@ -37,6 +37,7 @@ Run the script:
 sudo python3 chainz_see_balance.py
 ```
 When prompted, select or enter the CSV file name.
+
 Balances will be printed in the terminal and saved as:
 `balances_output_YYYYMMDD_HHMMSS.csv`
 
