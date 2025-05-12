@@ -43,7 +43,7 @@ Balances will be printed in the terminal and saved as:
 
 ### Done! Review your balances and enjoy!
 ### Preview:
-![Alt text](Images/preview.png)
+![Alt text](Images/Preview.png)
 
 
 ## 🧑‍💻 Author
