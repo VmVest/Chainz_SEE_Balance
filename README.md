@@ -28,9 +28,9 @@ Install dependencies with:
 sudo pip install -r requirements.txt --break-system-packages
 ```
 
-Prepare your .csv:
+Prepare your .csv file:
 
-You can export your wallet addresses from your Qt wallet software.
+- You can export your wallet addresses from your Qt wallet software.
 
 Run the script:
 ```bash
