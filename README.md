@@ -25,8 +25,12 @@ cd Chainz_SEE_Balance
 ```
 Install dependencies with:
 ```bash
-sudo pip install -r requirements.txt
+sudo pip install -r requirements.txt --break-system-packages
 ```
+
+Prepare your .csv:
+You can export your wallet addresses from your Qt wallet software.
+
 Run the script:
 ```bash
 sudo python3 chainz_see_balance.py
