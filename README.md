@@ -42,6 +42,9 @@ Balances will be printed in the terminal and saved as:
 `balances_output_YYYYMMDD_HHMMSS.csv`
 
 ### Done! Review your balances and enjoy!
+### Preview:
+![Alt text](Images/preview.png)
+
 
 ## 🧑‍💻 Author
 @vm.vest
